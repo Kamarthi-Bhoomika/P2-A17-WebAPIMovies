@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mphasis\\.net\\Phase2\\Day16\\WebAPIMovies\\WebAPIMovies\\WebAPIMovies.csproj": {}
+    "D:\\Mphasis\\.net\\Phase2\\Day17\\WebAPIMovies\\WebAPIMovies\\WebAPIMovies.csproj": {}
   },
   "projects": {
-    "D:\\Mphasis\\.net\\Phase2\\Day16\\WebAPIMovies\\WebAPIMovies\\WebAPIMovies.csproj": {
+    "D:\\Mphasis\\.net\\Phase2\\Day17\\WebAPIMovies\\WebAPIMovies\\WebAPIMovies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mphasis\\.net\\Phase2\\Day16\\WebAPIMovies\\WebAPIMovies\\WebAPIMovies.csproj",
+        "projectUniqueName": "D:\\Mphasis\\.net\\Phase2\\Day17\\WebAPIMovies\\WebAPIMovies\\WebAPIMovies.csproj",
         "projectName": "WebAPIMovies",
-        "projectPath": "D:\\Mphasis\\.net\\Phase2\\Day16\\WebAPIMovies\\WebAPIMovies\\WebAPIMovies.csproj",
+        "projectPath": "D:\\Mphasis\\.net\\Phase2\\Day17\\WebAPIMovies\\WebAPIMovies\\WebAPIMovies.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Mphasis\\.net\\Phase2\\Day16\\WebAPIMovies\\WebAPIMovies\\obj\\",
+        "outputPath": "D:\\Mphasis\\.net\\Phase2\\Day17\\WebAPIMovies\\WebAPIMovies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
